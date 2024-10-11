@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @BenLefe
+- 👋 Hi, I’m Ben
 - 👀 I’m interested in all types of development
-- 🌱 I’m currently learning JS, SQL and Web 3.0 related
+- 🌱 I'm working alone on all my projects, my code is poorly optimized but it works, sometimes
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->

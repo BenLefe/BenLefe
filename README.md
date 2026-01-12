@@ -1,9 +1,19 @@
+🚀 Futur Ingénieur Systèmes, Réseaux & Cloud
 
-<!--- - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
+Passionné par les infrastructures IT, la virtualisation, et le cloud computing.  
+Actuellement en reconversion, je construis mon **homelab** pour apprendre, expérimenter et documenter tout ce que j’apprends en systèmes, réseaux, sécurité et cloud.
 
-<!---
-BenLefe/BenLefe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### Certifications
+- ❌ CompTIA A+
+- ❌ CompTIA Netword+
+- ❌ Cisco CCNA
+- ❌ CompTIA Security+
+- ❌ CompTIA Linux+
+- ❌ Microsoft Azure AZ-900
+- ❌ Microsoft Azure AZ-104
+
+### Légende
+- ❌ En cours
+- ✅ Obtenue

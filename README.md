@@ -7,10 +7,11 @@ Actuellement en reconversion, je construis mon **homelab** pour apprendre, expé
 
 ### Certifications
 - ❌ CompTIA A+
-- ❌ CompTIA Netword+
+- ❌ CompTIA Network+
 - ❌ Cisco CCNA
 - ❌ CompTIA Security+
 - ❌ CompTIA Linux+
+- ❌ CompTIA Cloud+
 - ❌ Microsoft Azure AZ-900
 - ❌ Microsoft Azure AZ-104
 

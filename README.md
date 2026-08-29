@@ -5,5 +5,3 @@
     4.Never gonna make you cry
     5.Never gonna say goodbye
     6.Never gonna tell a lie and hurt you
-
-FOSS>SaaS
